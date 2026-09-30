@@ -1,0 +1,332 @@
+/*---------------------------------------------------------------------------*\
+| =========                 |                                                 |
+| \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox           |
+|  \\    /   O peration     | Version:  v2012                                 |
+|   \\  /    A nd           | Website:  www.openfoam.com                      |
+|    \\/     M anipulation  |                                                 |
+\*---------------------------------------------------------------------------*/
+Build  : _7bdb509494-20201222 OPENFOAM=2012
+Arch   : "LSB;label=32;scalar=64"
+Exec   : postProcess -func sample -noZero
+Date   : Sep 30 2026
+Time   : 10:04:15
+Host   : DESKTOP-JU3BLQV
+PID    : 51267
+I/O    : uncollated
+Case   : /home/utkarsh7/OpenFOAM/utkarsh7-v2012/run/project_3/cavityTemp
+nProcs : 1
+trapFpe: Floating point exception trapping enabled (FOAM_SIGFPE).
+fileModificationChecking : Monitoring run-time modified files using timeStampMaster (fileModificationSkew 5, maxFileModificationPolls 20)
+allowSystemOperations : Allowing user-supplied system call operations
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+Create time
+
+Create mesh for time = 0.1
+
+--> FOAM Warning : 
+    From static bool Foam::functionObjectList::readFunctionObject(const Foam::string&, Foam::dictionary&, Foam::HashSet<Foam::wordRe>&, const Foam::word&)
+    in file db/functionObjects/functionObjectList/functionObjectList.C at line 336
+    Cannot find functionObject file sample
+Time = 0.1
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 0.2
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 0.3
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 0.4
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 0.5
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 0.6
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 0.7
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 0.8
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 0.9
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 1
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 1.1
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 1.2
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 1.3
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 1.4
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 1.5
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 1.6
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 1.7
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 1.8
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 1.9
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 2
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 2.1
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 2.2
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 2.3
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 2.4
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 2.5
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 2.6
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 2.7
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 2.8
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 2.9
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 3
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 3.1
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 3.2
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 3.3
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 3.4
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 3.5
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 3.6
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 3.7
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 3.8
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 3.9
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 4
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 4.1
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 4.2
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 4.3
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 4.4
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 4.5
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 4.6
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 4.7
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 4.8
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 4.9
+
+Reading fields:
+
+Executing functionObjects
+
+Time = 5
+
+Reading fields:
+
+Executing functionObjects
+
+End
+
